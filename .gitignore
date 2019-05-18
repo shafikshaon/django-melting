@@ -109,3 +109,5 @@ venv.bak/
 # project specific
 django_melting
 manage.py
+users
+test.json
